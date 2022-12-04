@@ -1,0 +1,87 @@
+{
+  "portfolio": [
+      {
+          "cover": "/portfolio/portfolio-images/foods-post.png",
+          "title": "Food-post",
+          "description": "React, React-Hooks, SASS, AXIOS,",
+          "url": "https://foods-post.netlify.app/",
+          "gitHubUrl": "https://github.com/iskandarov101/food-post2"
+      },
+      {
+          "cover": "/portfolio/portfolio-images/stroy-control.png",
+          "title": "Stroy-control",
+          "description": "HTML, CSS, SCSS, JS,",
+          "url": "https://stroy-control-me.netlify.app/",
+          "gitHubUrl": "https://github.com/iskandarov101"
+      },
+      {
+          "cover": "/portfolio/portfolio-images/tmdb.png",
+          "title": "Movie page",
+          "description": "React, React-Hooks, Bootstrap, SASS",
+          "url": "https://ymdbmovies.netlify.app/",
+          "gitHubUrl": "https://github.com/iskandarov101/movies"
+      },
+      {
+          "cover": "/portfolio/portfolio-images/todo-list.png",
+          "title": "ToDo-list",
+          "description": "React, JSX, React-Hooks, Bootstrap, SCSS",
+          "url": "https://todo-listmen.netlify.app/",
+          "gitHubUrl": "https://github.com/iskandarov101/to-do-list"
+      },
+      {
+          "cover": "/portfolio/portfolio-images/tesla-clone-nextjs.png",
+          "title": "Tesla clone",
+          "description": "Nextjs, React-Hooks, Bootstrap,",
+          "url": "http://google.com"
+      },
+      {
+        "cover": "/portfolio/portfolio-images/redux-pizza.png",
+        "title": "Tasty Treat",
+        "description": "React, Redux, Redux-toolkit, Reactstrap",
+        "url": "https://redux-pizza.vercel.app/home",
+        "gitHubUrl": "https://github.com/iskandarov101/redux-pizza"
+    },
+    {
+        "cover": "/portfolio/portfolio-images/redu-shop.png",
+        "title": "Clothes shop",
+        "description": "React, Redux, React-Redux, Axios",
+        "url": "https://redux-shop-umber.vercel.app/",
+        "gitHubUrl": "https://github.com/iskandarov101/redux-shop"
+    },
+    {
+        "cover": "/portfolio/portfolio-images/borantube.png",
+        "title": "Boran Tube Api",
+        "description": "React, React-Hooks, Axios, SASS",
+        "url": "https://boran-tube.vercel.app/",
+        "gitHubUrl": "https://github.com/iskandarov101/boran-tube"
+    },
+    {
+        "cover": "/portfolio/portfolio-images/project-16.jpg",
+        "title": "INVEST AND TRADE GROUP",
+        "description": "Html, Sass, Bootstrap, Js",
+        "url":  "https://unrivaled-raindrop-a10ed1.netlify.app/",
+        "gitHubUrl": "https://github.com/iskandarov101/invest-trade-group"
+    },
+    {
+        "cover": "/portfolio/portfolio-images/filter.png",
+        "title": "Granma-cakes",
+        "description": "Html, Sass, Bootstrap, Js",
+        "url": "https://filter-granma.netlify.app/",
+        "gitHubUrl": "https://github.com/iskandarov101/smoothie-cake"
+    },
+    {
+        "cover": "/portfolio/portfolio-images/project-6.jpg",
+        "title": "Odigo landing",
+        "description": "Html, Sass, Bootstrap, Js",
+        "url": "https://majestic-haupia-0de9f6.netlify.app/",
+        "gitHubUrl": "https://github.com/iskandarov101/odigo"
+    },
+    {
+        "cover": "/portfolio/portfolio-images/project-2.jpg",
+        "title": "Designo",
+        "description": "Html, Scss, Bootstrap, Js",
+        "url": "https://cozy-cendol-e1b1b8.netlify.app/",
+        "gitHubUrl": "https://github.com/iskandarov101/designo"
+    }
+  ]
+}

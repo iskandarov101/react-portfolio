@@ -1,0 +1,52 @@
+{
+  "tips": [
+    {
+      "img": "portfolio/skill-images/html-icon.png",
+      "title": "HTML"
+    },
+    {
+      "img": "portfolio/skill-images/css-icon.png",
+      "title": "CSS"
+    },
+    {
+      "img": "portfolio/skill-images/sass-icon.png",
+      "title": "SASS"
+    },
+    {
+      "img": "portfolio/skill-images/bootstrap-icon.png",
+      "title": "BOOTSTRAP"
+    },
+    {
+      "img": "portfolio/skill-images/bem-icon.png",
+      "title": "BEM"
+    },
+    {
+      "img": "portfolio/skill-images/js-icon.png",
+      "title": "JAVASCRIPT"
+    },
+    {
+      "img": "portfolio/skill-images/es6-icon.png",
+      "title": "ES-6"
+    },
+    {
+      "img": "portfolio/skill-images/react-icon.png",
+      "title": "REACT"
+    },
+    {
+      "img": "portfolio/skill-images/react-hook-icon.png",
+      "title": "REACT-HOOKS"
+    },
+    {
+      "img": "portfolio/skill-images/redux-icon.png",
+      "title": "REDUX"
+    },
+    {
+      "img": "portfolio/skill-images/axios-logo.png",
+      "title": "AXIOS"
+    },
+    {
+      "img": "portfolio/skill-images/type-icon.png",
+      "title": "TYPESCRIPT"
+    }
+  ]
+}
