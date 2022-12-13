@@ -32,7 +32,7 @@
           "cover": "/portfolio/portfolio-images/tesla-clone-nextjs.png",
           "title": "Tesla clone",
           "description": "Nextjs, React-Hooks, Bootstrap,",
-          "url": "http://google.com"
+          "url": "https://teslatutorial.netlify.app/"
       },
       {
         "cover": "/portfolio/portfolio-images/redux-pizza.png",
